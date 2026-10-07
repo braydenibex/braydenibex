@@ -8,7 +8,9 @@
   </a>
 </p>
 
-
+<p align="center">
+  <img src="assets/aura.gif" alt="Banner" width="100%" />
+</p>
 
 
 
